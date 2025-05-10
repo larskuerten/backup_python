@@ -11,4 +11,8 @@ It creates a compressed file (zip) from the folder provided in the prompt.
 
 It doesnt delete original files in the source folder.
 
+Source folder format (windows 11):
+
+c:\folder
+
 
